@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Paypal:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Paypal-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Paypal:war exploded" />
+    </root>
+  </artifact>
+</component>
